@@ -34,7 +34,7 @@
 | A21 | Amonsul > Minastir > Amroth > Throne, Morgoth | 3 | /29 | 3 | 8 |
 | A22 | Amonsul > Minastir > Amroth > Throne > Erebor (2) | 3 | /29 | 3 | 8 |
 | A23 | Amonsul > Minastir > Amroth > Morgoth > Erendis (27), Elrond (34) | 62 | /26 | 6 | 64 |
-| **Total**   | **3219** | /... |    |
+| **Total** |  | **3219** | /... |  |  |
 
 ---
 
