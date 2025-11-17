@@ -25,7 +25,7 @@
 | A12 | Amonsul > Eregion > Numenor > Arthedain (246), Mirdain (628) | 875 | /22 | 10 | 1024 |
 | A13 | Amonsul > Eregion > Numenor > Mordor | 2 | /30 | 2 | 4 |
 | A14 | Amonsul > Eregion > Numenor > Mordor > Erain | 2 | /30 | 2 | 4 |
-| A15 | Amonsul > Eregion > Numenor > Mordor > Erain > Melkor (250), Khazad (252) | 502 | /23 | 9 | 512 |
+| A15 | Amonsul > Eregion > Numenor > Mordor > Erain > Melkor (250), Khazad (252) | 503 | /23 | 9 | 512 |
 | A16 | Amonsul > Eregion > Numenor > Mordor > Erain > Balrog (256), Gothmog (84), Thranduil (129) | 470 | /23 | 9 | 512 |
 | A17 | Amonsul > Minastir | 2 | /30 | 2 | 4 |
 | A18 | Amonsul > Minastir > Anor | 2 | /30 | 2 | 4 |
@@ -34,7 +34,7 @@
 | A21 | Amonsul > Minastir > Amroth > Throne, Morgoth | 3 | /29 | 3 | 8 |
 | A22 | Amonsul > Minastir > Amroth > Throne > Erebor (2) | 3 | /29 | 3 | 8 |
 | A23 | Amonsul > Minastir > Amroth > Morgoth > Erendis (27), Elrond (34) | 62 | /26 | 6 | 64 |
-| **Total** |  | **3218** | /... |  |  |
+| **Total**   | **3219** | /... |    |
 
 ---
 
