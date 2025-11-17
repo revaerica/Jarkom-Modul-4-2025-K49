@@ -46,35 +46,7 @@
 
 ### Penggabungan - CIDR
 
-#### I. Penggabungan Tahap I
-
-| Subnet | Gabungan dari |            | Netmask Akhir |
-|--------|---------------|------------|----------------|
-|        | Subnet | Netmask | Subnet | Netmask |      |
-| B1     | A1     | /23     | A12   | /22     | /21   |
-| B2     | A15    | /23     | A16   | /23     | /22   |
-| B3     | A17–A19 | /30–/22 | –     | –       | /23   |
-| B4     | A2–A4  | /27–/26 | –     | –       | /24   |
-| B5     | A5–A7  | /30–/25 | –     | –       | /25   |
-| B6     | A8–A11 | /30–/28 | –     | –       | /26   |
-| B7     | A13–A14| /30–/30 | –     | –       | /27   |
-| B8     | A21–A22| /29     | –     | –       | /29   |
-| B9     | A23    | /26     | –     | –       | /30   |
-
-#### II. Penggabungan Tahap II
-
-| Subnet | Gabungan dari |            | Netmask Akhir |
-|--------|---------------|------------|----------------|
-|        | Subnet | Netmask | Subnet | Netmask |      |
-| C1     | B1     | /21     | B2    | /22     | /20   |
-| C2     | B3–B9  | /23–/29 | –     | –       | /20   |
-
-#### III. Supernetting
-
-| Subnet | Gabungan dari                                       | Netmask Akhir |
-|--------|-------------------------------------------------------|----------------|
-|        | Subnet | Netmask | Subnet | Netmask |                |
-| D1     | 10.88.0.0 /21 | 10.88.8.0; 10.88.12.0; 10.88.14.0; 10.88.15.0 | /22; /23; /24; /24 | /20 |
+<img width="1348" height="805" alt="image" src="https://github.com/user-attachments/assets/73c0fd0d-e33e-487f-b33b-7242975246b5" />
 
 ### Pembagian IP - CIDR
 
