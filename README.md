@@ -46,7 +46,7 @@
 
 ### Tree - CIDR
 
-<img width="2142" height="653" alt="Untitled-2025-11-17-2010" src="https://github.com/user-attachments/assets/69853bd2-6c19-4f2b-9576-7ca412c00fef" />
+<img width="3335" height="1093" alt="image" src="https://github.com/user-attachments/assets/a9f685a0-9dc6-4114-8ff7-88518cade610" />
 
 ### Penggabungan - CIDR
 
