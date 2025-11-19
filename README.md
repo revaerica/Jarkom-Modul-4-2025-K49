@@ -90,7 +90,7 @@
 
 ### Tree - VSLM
 
-
+<img width="1967" height="1517" alt="image" src="https://github.com/user-attachments/assets/e2519e5b-6d3e-49eb-bb58-6e547fcd292c" />
 
 ### Pembagian IP - VSLM
 
